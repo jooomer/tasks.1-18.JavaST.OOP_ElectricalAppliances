@@ -1,0 +1,12 @@
+Kitchen,class mvc.model.appliances.Lighting,Kitchen Celling Lighting,4100,true
+Kitchen,class mvc.model.appliances.MicrowaveOven,Microwave Oven,27550,false
+Kitchen,class mvc.model.appliances.Refrigirator,Refrigirator,300,true
+Living Room,class mvc.model.appliances.Lighting,Living Room Celling Lighting,150,true
+Living Room,class mvc.model.appliances.Lighting,Living Room Floor Lamp,70,true
+Bedroom,class mvc.model.appliances.Lighting,Bedroom Celling Lighting,200,true
+Bedroom,class mvc.model.appliances.Lighting,Living Room Floor Lamp,75,true
+Bedroom,class mvc.model.appliances.Lighting,Sconce Lamp 1,60,false
+Bedroom,class mvc.model.appliances.Lighting,Sconce Lamp 2,60,false
+Bathroom,class mvc.model.appliances.Lighting,Bathroom Celling Lighting,100,true
+Bathroom,class mvc.model.appliances.Washer,Washer,350,false
+Bathroom,class mvc.model.appliances.Dryer,Dryer,666250,false
